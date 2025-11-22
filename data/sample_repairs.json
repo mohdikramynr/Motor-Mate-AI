@@ -10,11 +10,5 @@
     "symptom": "Low pickup and black smoke",
     "model": "Hero Splendor",
     "diagnosis": "Carburetor clogged"
-  },
-  {
-    "id": 3,
-    "symptom": "white smoke ",
-    "model": "Honda Activa",
-    "diagnosis": "engine repairing"
   }
 ]
