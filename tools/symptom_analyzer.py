@@ -5,7 +5,7 @@ KEYWORDS = {
     "dead battery": ("need new battery", 0.9),
     
     #not started problem
-    "Bike/Scooty not start": ("battery problem, plug problem, current problem, ignition switch problem ", 0.9),
+    "bike or scooty not start": ("battery problem, plug problem, current problem, ignition switch problem ", 0.9),
 
     # Engine start issues
     "engine not start": ("empty engine oil, big valve problem, head problem", 0.9),

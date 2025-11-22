@@ -9,8 +9,6 @@
 <body>
   <div class="card">
     <h2>🔧 MotorMate – Bike Repair AI</h2>
-    <label>Bike Symptom</label>
-    <input id="symptomInput" placeholder="e.g., bike not starting"/>
     <label>Bike Model</label>
     <select id="modelSelect">
       <option>Honda Activa</option>
@@ -19,6 +17,12 @@
       <option>Bajaj Pulsar</option>
       <option>Hero Splendor</option>
       <option>Other Models</option>
+    </select>
+    <label>Bike Symptom</label>
+    <!-- <input id="symptomInput" placeholder="e.g., bike not starting"/> -->
+     <select id="symptomInput">
+      <option>Dead Battery</option>
+      <option>Bike or Scooty Not Start</option>
     </select>
     <button id="diagnoseBtn">Diagnose Issue</button>
     <div id="result" class="result"></div>
