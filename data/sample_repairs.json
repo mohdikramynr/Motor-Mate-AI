@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "symptom": "Bike not starting after rain",
+    "model": "Honda CB 125",
+    "diagnosis": "Dead battery"
+  },
+  {
+    "id": 2,
+    "symptom": "Low pickup and black smoke",
+    "model": "Hero Splendor",
+    "diagnosis": "Carburetor clogged"
+  }
+]
